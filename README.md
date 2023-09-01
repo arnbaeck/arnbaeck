@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anton Ärnbäck
-- 🌱 I’m currently studying engingeering at Kungliga Tekniska Högskolan with a focus on Information Technology
-- This is an e.portfolio for my school projects
+- 🌱 I’m currently studying engingeering at Kungliga Tekniska Högskolan with a focus on Computer Science
 
 <!---
 arnbaeck/arnbaeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
